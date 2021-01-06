@@ -1,10 +1,10 @@
 """
 This is a space invaders game
 Hope you enjoy this game!
+
 Developed By-
 AtulyaTheGreat
-Age- 13
-Location - India (I don't go to whitehatjr or any other computer programming institute)
+
 
 """
 
@@ -195,5 +195,6 @@ while run:
     Player(playerX, playerY)
     show_score(textX, textY)
     pygame.display.update()   
+
 
 # code ends here
