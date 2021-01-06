@@ -1,14 +1,13 @@
 """
 This is a space invaders game
 Hope you enjoy this game!
+Developed By-
+AtulyaTheGreat
+Age- 13
+Location - India (I don't go to whitehatjr or any other computer programming institute)
 
-I made this game on python(Well, I know u know that, but still..)
-My age is 13 an I live in India (I don't go to any Whitehatjr or any other INSTITUTE(i didn't get any other word..))
-It is not useful game
-It was already made by someone else 30-40 yrs ago
-Well, I recommend u not to play it..
-And, yah it has exactly 200 lines
 """
+
 
 
 import pygame
